@@ -1,11 +1,3 @@
-GIT
-  remote: git://github.com/SnapDocs/lita-github-pinger.git
-  revision: 828c0c65c672915fad2812a810bcc42dd8f58687
-  ref: 828c0c6
-  specs:
-    lita-github-pinger (0.6.6)
-      lita (>= 4.4)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -89,7 +81,6 @@ PLATFORMS
 DEPENDENCIES
   lita
   lita-animate
-  lita-github-pinger!
   lita-google-images
   lita-karma
   lita-markov
