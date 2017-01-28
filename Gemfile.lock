@@ -1,13 +1,3 @@
-GIT
-  remote: git://github.com/yangez/lita-regexcellent.git
-  revision: 4b6aa64583d87c7f3995b68e30244149cbcd2cc5
-  ref: 4b6aa64
-  specs:
-    lita-regexcellent (0.1.0)
-      chronic
-      lita (>= 4.6)
-      slack-ruby-client
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -59,6 +49,10 @@ GEM
       lita (>= 4.6)
       oj (~> 2.13.1)
       sequel (~> 4.28.0)
+    lita-regexcellent (0.1.0)
+      chronic
+      lita (>= 4.6)
+      slack-ruby-client
     lita-slack (1.8.0)
       eventmachine
       faraday
@@ -117,7 +111,7 @@ DEPENDENCIES
   lita-heroku-keepalive
   lita-karma
   lita-markov
-  lita-regexcellent!
+  lita-regexcellent
   lita-slack
   lita-wikipedia
 
