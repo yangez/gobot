@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/yangez/lita-regexcellent.git
-  revision: 8b7fb1e837b0b95d3bb72a886e1383bdcbca07cc
-  ref: 8b7fb1e
+  revision: 4b6aa64583d87c7f3995b68e30244149cbcd2cc5
+  ref: 4b6aa64
   specs:
     lita-regexcellent (0.1.0)
       chronic
@@ -122,4 +122,4 @@ DEPENDENCIES
   lita-wikipedia
 
 BUNDLED WITH
-   1.13.6
+   1.14.3
