@@ -7,4 +7,4 @@
 1. https://slack.com/services/new/bot and plug token into...
 1. `heroku config:set SLACK_TOKEN=$token`
 
-Cloned from git@github.com:derwiki/lita-heroku-hackbot.git
+Cloned from github.com/derwiki/lita-heroku-hackbot
