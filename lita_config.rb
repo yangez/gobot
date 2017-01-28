@@ -26,6 +26,8 @@ Lita.configure do |config|
     c.redis[:url] = ENV["REDIS_URL"]
     c.http.port = ENV["PORT"]
     c.handlers.markov.database_url = ENV['DATABASE_URL']
+    c.handlers.google_images.google_cse_id = ENV['GOOGLE_CSE_ID']
+    c.handlers.google_images.google_cse_key = ENV['GOOGLE_CSE_KEY']
   end
 
 end
