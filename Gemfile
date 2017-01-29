@@ -7,5 +7,5 @@ gem "lita-animate"
 gem "lita-karma"
 gem "lita-wikipedia"
 gem "lita-markov"
-gem "lita-regexcellent", github: 'yangez/lita-regexcellent', ref: '4b6aa64'
+gem "lita-regexcellent"
 gem "lita-heroku-keepalive"
